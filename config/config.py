@@ -7,8 +7,8 @@ epochs = 1
 batch_size = 1
 lr = 0.01
 lrf = 0.01
-data_path = '/home/zxce/AI_platform/dataset/shoeTypeClassifierDataset/training'
-weights = ''
+data_path = 'dataset/shoeTypeClassifierDataset/training'
+weights = '' # 此参数默认控即可，后续添加预训练
 freeze_layers = False
 device = 'cuda:1'
 # 预测
