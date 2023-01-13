@@ -1,0 +1,27 @@
+目前支持的模型
+===========================
+## alexNet
+[alexnet]
+===========================
+## vggNet
+[vggnet]
+===========================
+## resNet
+[resnet34, resnet50, resnet101, resnext50_32x4d, resnext101_32x8d]
+===========================
+## regNet
+[regnet]
+===========================
+## mobileNet
+[mobilenet_v2]
+===========================
+## shuffleNet
+[shufflenet_v2_x0_5, shufflenet_v2_x1_0, shufflenet_v2_x1_5, shufflenet_v2_x1_0]
+===========================
+## denseNet
+[densenet121, densenet161, densenet169, densenet201]
+===========================
+## efficientNet、efficientNetv2
+[efficientnet_b0, efficientnet_b1, efficientnet_b2, efficientnet_b3, efficientnet_b4, efficientnet_b5, efficientnet_b6, efficientnet_b7]
+[efficientnetv2_s, efficientnetv2_l, efficientnetv2_m]
+===========================
